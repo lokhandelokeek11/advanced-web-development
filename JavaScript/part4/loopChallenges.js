@@ -38,6 +38,7 @@ do {
         teaCollection .push(tea);
     }
 } while(tea != stop)
+ 
 */
 /*
 4. Write a 'do while' loop that adds numbers from 1 to 3 and stores the result in a variable named 'total' 
